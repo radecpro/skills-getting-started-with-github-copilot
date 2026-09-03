@@ -1,6 +1,6 @@
 # Getting Started with GitHub Copilot — Exercise Complete
 
-Congratulations, radecpro — you’ve completed the "Getting Started with GitHub Copilot" hands-on exercise.
+You’ve completed the "Getting Started with GitHub Copilot" hands-on exercise. Great work!
 
 Quick links
 - Exercise: https://github.com/radecpro/skills-getting-started-with-github-copilot/issues/1
